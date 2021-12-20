@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Companion Objects</string>
+    <string name="change_background">Change Background</string>
+    <string name="enter_day_or_night">Enter Day or Night</string>
+</resources>
